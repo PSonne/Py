@@ -1,0 +1,18 @@
+Compilers :
+https://www.google.com/search?client=firefox-b-d&q=Numba
+https://www.google.com/search?client=firefox-b-d&q=Cython
+
+Web frameWorks : 
+https://www.djangoproject.com/
+https://flask.palletsprojects.com/en/2.2.x/
+https://trypyramid.com/
+https://docs.cherrypy.dev/en/latest/
+
+General rescources on Python :
+https://www.tutorialsteacher.com/python
+
+https://towardsdatascience.com/how-to-create-an-effective-self-study-routine-to-teach-yourself-data-science-successfully-6248c7ec3a53
+
+*****************************************************************
+https://python.land/introduction-to-python <= tutoriel super cool
+*****************************************************************
