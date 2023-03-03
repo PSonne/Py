@@ -94,9 +94,34 @@ print(mystring[::-1])
 # chaining calls on one line
 print('Hello world'.replace('world', 'student').upper()) #replace changes a word to another, upper for upper case
 
-replaceTest = 
+replaceTest = "test replace : is it working?"
+print(replaceTest)
+print('And with replace :')
+print(replaceTest.replace('?', ', yes it is!'))
 
+# Formated strings
+print(' ')
+my_age = 34
+print(f'My age is {my_age}') # form of destructuring within the string 
 
+print(' ')
+print(f'3+4={3+4}')
+print(f'My age is, unfortunately, not {my_age - 8}'
+      f'\nMy age is, actually, {my_age}')
 
+name = 'John'
+age = 60
+print(f"{name = }, {age = }")
+
+print('\n')
+#=================== Print function :
+print(1)
+print('Some text')
+print('a tab:\t and some text')
+print('\nwith a lign break')
+print() # same above
+print('This is my age :', 34)
+
+#=================== Booleans :
 
 
